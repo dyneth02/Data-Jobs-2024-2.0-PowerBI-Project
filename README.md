@@ -7,6 +7,12 @@ Navigating the data job market can feel like a maze with information scattered e
 ### Dashboard File
 You can find the file for the dashboard here: [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard_2.0.pbix).  
 
+<p align="center">
+   <img src="https://github.com/dyneth02/Data-Jobs-2024-2.0-PowerBI-Project/blob/main/screenshots/%7BBCC2C343-2A44-4CFB-84F6-359407BE523E%7D.png">
+</p>p
+
+---
+
 ## Skills Showcased
 
 This project put key Power BI features into practice. Here's what we mastered:
